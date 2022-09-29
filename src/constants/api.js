@@ -1,0 +1,1 @@
+export const API_URL = "https://get-interview-ready-backend.herokuapp.com/api/v1";
